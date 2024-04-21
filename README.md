@@ -21,4 +21,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 3 hours
-### Live link - 
+### Live link - [Link](https://web-design-landing-page-puce.vercel.app/)
